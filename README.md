@@ -5,6 +5,6 @@ Script:
    1. Sell that borrowed asset. (Short selling)
 4. Repay everythig back
 
-Testing:
-Integration test: kovan
+Testing: /n
+Integration test: kovan /n
 Unit tests: Mainnet-forked
